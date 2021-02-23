@@ -1,5 +1,5 @@
 # MAL assignment 2
-## Christian M & Thobias Frehr
+## Christian M & Thobias F
 
 ## Union-find algorithms implemenation of Quick-union and Weighted-union.
 
